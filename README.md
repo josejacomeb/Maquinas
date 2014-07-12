@@ -1,4 +1,4 @@
 Maquinas
 ========
 
-PRograma de Máquinas Eléctricas
+Programa de Máquinas Eléctricas
